@@ -1,15 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T17:16:27.922Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4rRWofxAIjVXIDwTfLRK" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T21:36:48.025Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2ItQHAGjoD4tiL6jXn83" version="23.1.2" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="1484" dy="564" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="1474" dy="783" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_5mSTuPxr-ZiKRkBDSY7-1" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;fontFamily=Permanent Marker;fontSize=16;points=[];verticalAlign=top;stackBorder=0;resizable=1;strokeWidth=2;sketch=1;disableMultiStroke=1;gradientColor=none;fillColor=default;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="152" y="112" width="1440" height="909" as="geometry" />
+          <mxGeometry x="155" y="112" width="1440" height="752" as="geometry" />
         </mxCell>
         <object label="1º SEMESTRE" status="New" id="_5mSTuPxr-ZiKRkBDSY7-2">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=none;gradientColor=default;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
-            <mxGeometry y="28" width="180" height="881" as="geometry" />
+            <mxGeometry y="28" width="180" height="724" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;APF22&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Fundamentos da Física I&lt;br&gt;&lt;div style=&quot;font-size: 12px; text-align: left;&quot;&gt;&amp;nbsp;60h&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px; text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-3">
@@ -58,7 +58,7 @@
         </object>
         <object label="2º SEMESTRE" status="New" id="UxCQeE6TKcD0Ho9k0yVD-1">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;strokeColor=none;fillStyle=solid;fillColor=none;swimlaneLine=0;shadow=0;rounded=0;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
-            <mxGeometry x="180" y="28" width="180" height="881" as="geometry" />
+            <mxGeometry x="180" y="28" width="180" height="724" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;APF24&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Fundamentos da Física II&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;60h&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;font-size:5px&quot;&gt;&#x9;&lt;/span&gt;     &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;     APF22&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="zUUzP4G1sy1ztIb5Q9ei-16">
@@ -113,7 +113,7 @@
         </object>
         <object label="3º SEMESTRE" status="New" id="UxCQeE6TKcD0Ho9k0yVD-9">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#A0522D;fontStyle=1" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
-            <mxGeometry x="360" y="28" width="180" height="881" as="geometry" />
+            <mxGeometry x="360" y="28" width="180" height="724" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;APF26&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Fundamentos da Física III&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;60h&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;font-size:5px&quot;&gt;&#x9;&lt;/span&gt;     &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;     APF2&lt;/span&gt;4&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="zUUzP4G1sy1ztIb5Q9ei-44">
@@ -176,7 +176,7 @@
         </object>
         <object label="4º SEMESTRE" status="New" id="UxCQeE6TKcD0Ho9k0yVD-5">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
-            <mxGeometry x="540" y="28" width="180" height="881" as="geometry" />
+            <mxGeometry x="540" y="28" width="180" height="724" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;APF28&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Fundamentos da Física IV&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;60h&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;font-size:5px&quot;&gt;&#x9;&lt;/span&gt;     &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;     APF2&lt;/span&gt;6&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="zUUzP4G1sy1ztIb5Q9ei-46">
@@ -211,7 +211,7 @@
         </object>
         <object label="5º SEMESTRE" status="New" id="zUUzP4G1sy1ztIb5Q9ei-34">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
-            <mxGeometry x="720" y="28" width="180" height="881" as="geometry" />
+            <mxGeometry x="720" y="28" width="180" height="724" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;APF31&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Fundamentos da Física V&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;60h&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;font-size:5px&quot;&gt;&#x9;&lt;/span&gt;     &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;     APF22&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="zUUzP4G1sy1ztIb5Q9ei-47">
@@ -251,7 +251,7 @@
         </object>
         <object label="6º SEMESTRE" status="In progress" id="_5mSTuPxr-ZiKRkBDSY7-6">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#8DD16B;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
-            <mxGeometry x="900" y="28" width="180" height="881" as="geometry" />
+            <mxGeometry x="900" y="28" width="180" height="724" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;APF33&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Estrutura da Matéria&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;60h&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;font-size:5px&quot;&gt;&#x9;&lt;/span&gt;     &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;     APF&lt;/span&gt;31&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="zUUzP4G1sy1ztIb5Q9ei-53">
@@ -319,7 +319,7 @@
         </mxCell>
         <object label="7º SEMESTRE" status="Completed" id="_5mSTuPxr-ZiKRkBDSY7-9">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#1BA1E2;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
-            <mxGeometry x="1080" y="28" width="180" height="881" as="geometry" />
+            <mxGeometry x="1080" y="28" width="180" height="724" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;APF34&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Termodinâmica&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;60h&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;font-size:5px&quot;&gt;&#x9;&lt;/span&gt;     &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;     APF2&lt;/span&gt;6&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="zUUzP4G1sy1ztIb5Q9ei-54">
@@ -365,51 +365,6 @@
         <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;OPTATIVA II&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;60h&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;font-size:5px&quot;&gt;&#x9;&lt;/span&gt;     &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;     &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="syIFeODyCTfg-qtfyvsN-93">
           <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#BF8200;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#000000;glass=1;shadow=1;fontColor=#000000;fillStyle=solid;" parent="_5mSTuPxr-ZiKRkBDSY7-9" vertex="1">
             <mxGeometry x="20" y="621" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="8º SEMESTRE" status="Completed" id="zUUzP4G1sy1ztIb5Q9ei-56">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#1BA1E2;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
-            <mxGeometry x="1260" y="28" width="180" height="881" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;APF59&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Mecânica Quântica&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;90h&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;font-size:5px&quot;&gt;&#x9;&lt;/span&gt;     &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;     APF&lt;/span&gt;33&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="zUUzP4G1sy1ztIb5Q9ei-57">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF9E4A;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#000000;glass=1;shadow=1;fontColor=#000000;fillStyle=auto;gradientColor=none;" parent="zUUzP4G1sy1ztIb5Q9ei-56" vertex="1">
-            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;APF38&lt;/div&gt;Projetos Interdisciplinares&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;30h|30h&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;font-size:5px&quot;&gt;&#x9;&lt;/span&gt; &lt;/span&gt;FEG07|&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;APF2&lt;/span&gt;8&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="syIFeODyCTfg-qtfyvsN-95">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF9E4A;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#000000;glass=1;shadow=1;fontColor=#000000;fillStyle=solid;" parent="zUUzP4G1sy1ztIb5Q9ei-56" vertex="1">
-            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="syIFeODyCTfg-qtfyvsN-105" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.462;entryDx=0;entryDy=0;entryPerimeter=0;" parent="zUUzP4G1sy1ztIb5Q9ei-56" target="syIFeODyCTfg-qtfyvsN-99" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="110" as="sourcePoint" />
-            <mxPoint x="19" y="257" as="targetPoint" />
-            <Array as="points">
-              <mxPoint y="258" />
-              <mxPoint x="9" y="258" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;APF54&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Estagio Supervisionado&lt;br&gt;IV&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;30h&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;APF2&lt;/span&gt;8&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="syIFeODyCTfg-qtfyvsN-99">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF9E4A;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#000000;glass=1;shadow=1;fontColor=#000000;fillStyle=solid;" parent="zUUzP4G1sy1ztIb5Q9ei-56" vertex="1">
-            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;OPTATIVA III&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;30h&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="syIFeODyCTfg-qtfyvsN-100">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF9E4A;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#000000;glass=1;shadow=1;fontColor=#000000;fillStyle=solid;" parent="zUUzP4G1sy1ztIb5Q9ei-56" vertex="1">
-            <mxGeometry x="20" y="321" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;FMF05&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Trabalho de Conclusão&lt;br&gt;de Curso&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;30h&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="syIFeODyCTfg-qtfyvsN-102">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF9E4A;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#000000;glass=1;shadow=1;fontColor=#000000;fillStyle=solid;" parent="zUUzP4G1sy1ztIb5Q9ei-56" vertex="1">
-            <mxGeometry x="20" y="421" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;FIG13&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Relações Etnico-Raciais&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;60h&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="syIFeODyCTfg-qtfyvsN-103">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF9E4A;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#000000;glass=1;shadow=1;fontColor=#000000;fillStyle=solid;" parent="zUUzP4G1sy1ztIb5Q9ei-56" vertex="1">
-            <mxGeometry x="20" y="521" width="140" height="80" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="syIFeODyCTfg-qtfyvsN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_5mSTuPxr-ZiKRkBDSY7-1" source="zUUzP4G1sy1ztIb5Q9ei-44" target="zUUzP4G1sy1ztIb5Q9ei-46" edge="1">
@@ -717,6 +672,74 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="E-i8cak_EyD_953tbkh1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.775;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-1" target="syIFeODyCTfg-qtfyvsN-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="344" y="611" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="358" y="611" />
+              <mxPoint x="358" y="641" />
+              <mxPoint x="537" y="641" />
+              <mxPoint x="537" y="636" />
+              <mxPoint x="544" y="636" />
+              <mxPoint x="544" y="640" />
+              <mxPoint x="902" y="640" />
+              <mxPoint x="902" y="592" />
+              <mxPoint x="900" y="592" />
+              <mxPoint x="900" y="586" />
+              <mxPoint x="902" y="586" />
+              <mxPoint x="902" y="537" />
+              <mxPoint x="900" y="537" />
+              <mxPoint x="900" y="531" />
+              <mxPoint x="902" y="531" />
+              <mxPoint x="902" y="411" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="8º SEMESTRE" status="Completed" id="zUUzP4G1sy1ztIb5Q9ei-56">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#1BA1E2;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
+            <mxGeometry x="1260" y="28" width="180" height="724" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;APF59&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Mecânica Quântica&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;90h&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;font-size:5px&quot;&gt;&#x9;&lt;/span&gt;     &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;     APF&lt;/span&gt;33&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="zUUzP4G1sy1ztIb5Q9ei-57">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF9E4A;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#000000;glass=1;shadow=1;fontColor=#000000;fillStyle=auto;gradientColor=none;" parent="zUUzP4G1sy1ztIb5Q9ei-56" vertex="1">
+            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;APF38&lt;/div&gt;Projetos Interdisciplinares&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;30h|30h&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;font-size:5px&quot;&gt;&#x9;&lt;/span&gt; &lt;/span&gt;FEG07|&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;APF2&lt;/span&gt;8&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="syIFeODyCTfg-qtfyvsN-95">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF9E4A;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#000000;glass=1;shadow=1;fontColor=#000000;fillStyle=solid;" parent="zUUzP4G1sy1ztIb5Q9ei-56" vertex="1">
+            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="syIFeODyCTfg-qtfyvsN-105" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.462;entryDx=0;entryDy=0;entryPerimeter=0;" parent="zUUzP4G1sy1ztIb5Q9ei-56" target="syIFeODyCTfg-qtfyvsN-99" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="110" as="sourcePoint" />
+            <mxPoint x="19" y="257" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="258" />
+              <mxPoint x="9" y="258" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;APF54&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Estagio Supervisionado&lt;br&gt;IV&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;30h&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;APF2&lt;/span&gt;8&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="syIFeODyCTfg-qtfyvsN-99">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF9E4A;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#000000;glass=1;shadow=1;fontColor=#000000;fillStyle=solid;" parent="zUUzP4G1sy1ztIb5Q9ei-56" vertex="1">
+            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;OPTATIVA III&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;30h&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="syIFeODyCTfg-qtfyvsN-100">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF9E4A;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#000000;glass=1;shadow=1;fontColor=#000000;fillStyle=solid;" parent="zUUzP4G1sy1ztIb5Q9ei-56" vertex="1">
+            <mxGeometry x="20" y="321" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;FMF05&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Trabalho de Conclusão&lt;br&gt;de Curso II&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;30h&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="syIFeODyCTfg-qtfyvsN-102">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF9E4A;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#000000;glass=1;shadow=1;fontColor=#000000;fillStyle=solid;" parent="zUUzP4G1sy1ztIb5Q9ei-56" vertex="1">
+            <mxGeometry x="20" y="421" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;FIG13&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;Relações Etnico-Raciais&lt;br&gt;&lt;div style=&quot;text-align: left; line-height: 120%;&quot;&gt;&amp;nbsp;60h&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" placeholders="1" id="syIFeODyCTfg-qtfyvsN-103">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF9E4A;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#000000;glass=1;shadow=1;fontColor=#000000;fillStyle=solid;" parent="zUUzP4G1sy1ztIb5Q9ei-56" vertex="1">
+            <mxGeometry x="20" y="521" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="syIFeODyCTfg-qtfyvsN-104" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="syIFeODyCTfg-qtfyvsN-95" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1235" y="249" as="sourcePoint" />
